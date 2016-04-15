@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="linearSeparador">#696969</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#5661f5</color>
+    <color name="accent_color">#03A9F4</color>
+    <color name="botones">#0a4560</color>
+    <color name="textBotones">#ffffff</color>
+</resources>
